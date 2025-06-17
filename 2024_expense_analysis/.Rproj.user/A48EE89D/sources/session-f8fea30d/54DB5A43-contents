@@ -1,0 +1,371 @@
+date;Name / Description;Code;Debit  D or Credit  C;Amount ?;Transaction type;Notification 
+02.01.2024;RSG Group GmbH;531;D;24.90;Direct debit;Yes
+02.01.2024;LIDL;931;D;40.88;Card payment;Yes
+03.01.2024;AMAZON;531;D;4.24;Direct debit;Yes
+03.01.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+04.01.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+08.01.2024;LIDL;931;D;32.62;Card payment;Yes
+08.01.2024;AMAZON;531;D;48.00;Direct debit;Yes
+09.01.2024;LIDL;931;D;37.00;Card payment;Yes
+11.01.2024;LIDL;931;D;26.65;Card payment;Yes
+15.01.2024;DM DROGERIEMARKT;931;D;28.40;Card payment;Yes
+15.01.2024;VOLKSBANK ;931;D;50.00;Withdrawal;Yes
+15.01.2024;AOK Hessen;531;D;361.00;Direct debit;Yes
+17.01.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+17.01.2024;OTTO payments;518;D;25.00;Transfer;Yes
+17.01.2024;Master card;510;D;120.00;SEPA Transfer;Yes
+18.01.2024;LIDL;931;D;43.49;Card payment;Yes
+19.01.2024;A.B.U;532;C;50.00;Credit;Yes
+19.01.2024;PVS bayern GmbH;510;D;27.79;SEPA Transfer;Yes
+22.01.2024;LIDL;931;D;40.40;Card payment;Yes
+23.01.2024;AMAZON;531;D;30.55;Direct debit;Yes
+23.01.2024;DM DROGERIEMARKT;931;D;37.30;Card payment;Yes
+24.01.2024;AFRICAN BAZAAR/Giessen;931;D;26.89;Card payment;Yes
+24.01.2024;Neukauf Lemler EDEKA;931;D;39.00;Card payment;Yes
+29.01.2024;LIDL;931;D;19.45;Card payment;Yes
+30.01.2024;A.B.U;532;C;700.00;Credit;Yes
+31.01.2024;VOLKSBANK ;905;D;1.50;Bank charge;Yes
+31.01.2024;Vodafone ;531;D;49.99;Direct debit;Yes
+01.02.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+01.02.2024;LIDL;931;D;29.77;Card payment;Yes
+01.02.2024;RSG Group GmbH;531;D;39.90;Direct debit;Yes
+02.02.2024;AMAZON;531;D;8.90;Direct debit;Yes
+05.02.2024;TOOM ;931;D;19.98;Card payment;Yes
+05.02.2024;LIDL;931;D;31.51;Card payment;Yes
+05.02.2024;DM DROGERIEMARKT;931;D;35.70;Card payment;Yes
+06.02.2024;LIDL;931;D;29.23;Card payment;Yes
+07.02.2024;MH Muller Handels GmbH;931;D;16.57;Card payment;Yes
+08.02.2024;AMAZON;531;D;10.12;Direct debit;Yes
+12.02.2024;A.B.U;532;C;400.00;Credit;Yes
+12.02.2024;AOK Hessen;510;D;10.00;SEPA Transfer;Yes
+12.02.2024;Neukauf Lemler EDEKA;931;D;23.21;Card payment;Yes
+13.02.2024;LIDL;931;D;35.68;Card payment;Yes
+15.02.2024;VOLKSBANK ;4020;D;30.00;Withdrawal;Yes
+15.02.2024;Energie und Versorgung Butzbach GmbH;531;D;161.00;Direct debit;Yes
+15.02.2024;AOK Hessen;531;D;223.88;Direct debit;Yes
+16.02.2024;A.B.U;531;C;100.00;Credit;Yes
+16.02.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+16.02.2024;AMAZON;531;D;9.80;Direct debit;Yes
+16.02.2024;PayPal;531;D;72.52;Direct debit;Yes
+19.02.2024;OTTO payments;510;D;25.00;SEPA Transfer;Yes
+19.02.2024;Master card;510;D;105.00;SEPA Transfer;Yes
+19.02.2024;Justus Liebig Universit?t;510;D;314.87;SEPA Transfer;Yes
+20.02.2024;MH Muller Handels GmbH;931;D;16.57;Card payment;Yes
+21.02.2024;LIDL;931;D;26.84;Card payment;Yes
+21.02.2024;PayPal;531;D;45.75;Direct debit;Yes
+23.02.2024;LIDL;931;D;31.76;Card payment;Yes
+26.02.2024;PayPal;531;D;5.00;Direct debit;Yes
+26.02.2024;REWE;531;D;24.42;Card payment;Yes
+26.02.2024;AMAZON;531;D;30.55;Direct debit;Yes
+28.02.2024;AMAZON;531;D;0.94;Direct debit;Yes
+28.02.2024;AMAZON;531;D;0.94;Direct debit;Yes
+29.02.2024;A.B.U;531;C;500.00;Credit;Yes
+29.02.2024;VOLKSBANK ;905;D;1.00;Bank charge;Yes
+01.03.2024;RSG Group GmbH;531;D;2.41;Direct debit;Yes
+01.03.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+01.03.2024;Vodafone;531;D;49.99;Direct debit;Yes
+04.03.2024;AMAZON;510;D;14.98;SEPA Transfer;Yes
+04.03.2024;LIDL;931;D;22.91;Card payment;Yes
+04.03.2024;AMAZON;510;D;32.99;SEPA Transfer;Yes
+04.03.2024;DM DROGERIEMARKT;931;D;38.62;Card payment;Yes
+07.03.2024;LIDL;931;D;17.39;Card payment;Yes
+13.03.2024;MH Muller Handels GmbH;931;D;7.23;Card payment;Yes
+13.03.2024;APOTHEKE AM BAHNHOF;931;D;7.79;Card payment;Yes
+15.03.2024;A.B.U;532;C;220.00;Credit;Yes
+15.03.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+15.03.2024;Energie und Versorgung Butzbach GmbH;531;D;66.82;Direct debit;Yes
+15.03.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+15.03.2024;AOK Hessen;531;D;223.88;Direct debit;Yes
+18.03.2024;LIDL;931;D;44.23;Card payment;Yes
+19.03.2024;OTTO payments;518;D;25.00;Transfer;Yes
+19.03.2024;Master card;510;D;105.00;SEPA Transfer;Yes
+20.03.2024;MH Muller Handels GmbH;931;D;25.03;Card payment;Yes
+25.03.2024;A.B.U;532;C;50.00;Credit;Yes
+25.03.2024;AMAZON;531;D;23.19;Direct debit;Yes
+25.03.2024;AMAZON;531;D;33.95;Direct debit;Yes
+25.03.2024;LIDL;931;D;37.06;Card payment;Yes
+25.03.2024;Rundfunk ARD, ZDF, DRadio;518;D;55.08;Transfer;Yes
+26.03.2024;DM DROGERIEMARKT;931;D;12.06;Card payment;Yes
+28.03.2024;A.B.U;532;C;500.00;Credit;Yes
+28.03.2024;VOLKSBANK ;905;D;2.00;Bank charge;Yes
+28.03.2024;LIDL;931;D;16.64;Card payment;Yes
+28.03.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+02.04.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+02.04.2024;REWE;931;D;12.02;Card payment;Yes
+02.04.2024;LIDL;931;D;85.81;Card payment;Yes
+04.04.2024;DM DROGERIEMARKT;931;D;43.90;Card payment;Yes
+05.04.2024;A.B.U;531;C;100.00;Credit;Yes
+08.04.2024;LIDL;931;D;17.82;Card payment;Yes
+08.04.2024;MH Muller Handels GmbH;931;D;18.01;Card payment;Yes
+09.04.2024;PayPal;531;D;35.75;Direct debit;Yes
+10.04.2024;LIDL;931;D;30.78;Card payment;Yes
+11.04.2024;Neukauf Lemler EDEKA;931;D;33.22;Card payment;Yes
+15.04.2024;LIDL;931;D;36.01;Card payment;Yes
+15.04.2024;DM DROGERIEMARKT;931;D;46.65;Card payment;Yes
+15.04.2024;VAAM-Mitgliedsbeitrag;531;D;95.00;Direct debit;Yes
+16.04.2024;A.B.U;532;C;200.00;Credit;Yes
+16.04.2024;VOLKSBANK ;531;D;0.94;Bank charge;Yes
+16.04.2024;VOLKSBANK ;531;D;0.94;Bank charge;Yes
+18.04.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+18.04.2024;LIDL;931;D;16.52;Card payment;Yes
+18.04.2024;Master card;510;D;110.00;SEPA Transfer;Yes
+19.04.2024;LIDL;931;D;35.74;Card payment;Yes
+22.04.2024;OTTO payments;518;D;25.00;Transfer;Yes
+23.04.2024;A.B.U;532;C;150.00;Credit;Yes
+23.04.2024;PayPal;531;D;31.75;Direct debit;Yes
+23.04.2024;PayPal;531;D;36.98;Direct debit;Yes
+23.04.2024;PayPal;531;D;95.00;Direct debit;Yes
+23.04.2024;PayPal;531;D;95.00;Direct debit;Yes
+24.04.2024;VOLKSBANK ;4243;D;40.00;Withdrawal;Yes
+24.04.2024;Energie und Versorgung Butzbach GmbH;531;D;127.49;Direct debit;Yes
+25.04.2024;Payward Ltd;531;C;177.83;Credit;Yes
+29.04.2024;A.B.U;532;C;500.00;Credit;Yes
+29.04.2024;LIDL;931;D;26.25;Card payment;Yes
+29.04.2024;AOK Hessen;518;D;231.87;Transfer;Yes
+30.04.2024;VOLKSBANK ;905;D;2.00;Bank charge;Yes
+30.04.2024;LIDL;931;D;21.34;Card payment;Yes
+02.05.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+02.05.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+02.05.2024;PayPal;531;D;61.47;Direct debit;Yes
+03.05.2024;REWE;931;D;44.70;Card payment;Yes
+07.05.2024;PayPal;531;D;31.99;Direct debit;Yes
+08.05.2024;A.B.U;532;C;200.00;Credit;Yes
+08.05.2024;OTTO payments;510;D;25.00;SEPA Transfer;Yes
+08.05.2024;LIDL;931;D;35.75;Card payment;Yes
+14.05.2024;A.B.U;532;C;150.00;Credit;Yes
+14.05.2024;LIDL;931;D;30.82;Card payment;Yes
+14.05.2024;REWE;931;D;58.19;Card payment;Yes
+15.05.2024;LIDL;931;D;8.73;Card payment;Yes
+15.05.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+15.05.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+17.05.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+21.05.2024;PayPal;531;D;0.85;Direct debit;Yes
+21.05.2024;PayPal;531;D;0.97;Direct debit;Yes
+21.05.2024;PayPal;531;D;1.34;Direct debit;Yes
+21.05.2024;PayPal;531;D;7.64;Direct debit;Yes
+21.05.2024;PayPal;531;D;48.91;Direct debit;Yes
+21.05.2024;LIDL;931;D;50.61;Card payment;Yes
+21.05.2024;Master card;510;D;105.00;SEPA Transfer;Yes
+23.05.2024;AMAZON;531;D;39.55;Direct debit;Yes
+27.05.2024;DM DROGERIEMARKT;931;D;33.40;Card payment;Yes
+28.05.2024;PayPal;531;C;18.12;Credit;Yes
+31.05.2024;VOLKSBANK ;905;D;1.00;Bank charge;Yes
+31.05.2024;VOLKSBANK ;931;D;20.00;Withdrawal;Yes
+31.05.2024;LIDL;931;D;41.23;Card payment;Yes
+03.06.2024;A.B.U;532;C;100.00;Credit;Yes
+03.06.2024;A.B.U;532;C;510.00;Credit;Yes
+03.06.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+03.06.2024;AOK Hessen;531;D;223.88;Direct debit;Yes
+04.06.2024;PayPal;531;D;84.75;Direct debit;Yes
+04.06.2024;PayPal;531;D;505.53;Direct debit;Yes
+05.06.2024;A.B.U;532;C;300.00;Credit;Yes
+05.06.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+07.06.2024;LIDL;931;D;18.88;Card payment;Yes
+10.06.2024;DM DROGERIEMARKT;931;D;60.65;Card payment;Yes
+11.06.2024;A.B.U;532;C;600.00;Credit;Yes
+11.06.2024;LIDL;931;D;40.73;Card payment;Yes
+13.06.2024;A.B.U;532;C;350.00;Credit;Yes
+13.06.2024;Airbnb;510;D;325.00;SEPA Transfer;Yes
+17.06.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+17.06.2024;PayPal;931;D;44.30;Direct debit;Yes
+17.06.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+17.06.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+17.06.2024;AOK Hessen;518;D;223.88;Direct debit;Yes
+18.06.2024;OTTO payments;518;D;25.00;Transfer;Yes
+18.06.2024;Master card;510;D;200.00;SEPA Transfer;Yes
+21.06.2024;A.B.U;532;C;100.00;Credit;Yes
+27.06.2024;PayPal;531;D;80.42;Direct debit;Yes
+28.06.2024;VOLKSBANK ;905;D;1.50;Bank charge;Yes
+01.07.2024;A.B.U;532;C;500.00;Credit;Yes
+01.07.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+01.07.2024;HanseMerkur Speziale Krankenversicherung AG;531;D;10.00;Direct debit;Yes
+01.07.2024;Rundfunk ARD, ZDF, DRadio;518;D;55.08;Transfer;Yes
+02.07.2024;LIDL;931;D;32.72;Card payment;Yes
+02.07.2024;DM DROGERIEMARKT;931;D;46.75;Card payment;Yes
+02.07.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+04.07.2024;LIDL;931;D;47.06;Card payment;Yes
+08.07.2024;A.B.U;532;C;55.00;Credit;Yes
+08.07.2024;A.B.U;532;C;250.00;Credit;Yes
+08.07.2024;TransferGo Lithuania;510;D;52.00;SEPA Transfer;Yes
+11.07.2024;LIDL;931;D;31.26;Card payment;Yes
+15.07.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+15.07.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+15.07.2024;AOK Hessen;518;D;223.88;Direct debit;Yes
+16.07.2024;PayPal;531;D;2.19;Direct debit;Yes
+16.07.2024;PayPal;531;D;2.48;Direct debit;Yes
+16.07.2024;DM DROGERIEMARKT;931;D;30.75;Card payment;Yes
+16.07.2024;LIDL;931;D;35.97;Card payment;Yes
+17.07.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+17.07.2024;OTTO payments;518;D;24.27;Transfer;Yes
+17.07.2024;Master card;510;D;150.00;SEPA Transfer;Yes
+18.07.2024;DM DROGERIEMARKT;931;D;7.95;Card payment;Yes
+18.07.2024;LIDL;931;D;9.20;Card payment;Yes
+18.07.2024;DM DROGERIEMARKT;931;D;19.60;Card payment;Yes
+18.07.2024;REWE;931;D;21.82;Card payment;Yes
+19.07.2024;MH Muller Handels GmbH;931;D;15.47;Card payment;Yes
+22.07.2024;A.B.U;532;C;50.00;Credit;Yes
+22.07.2024;PENNY;931;D;13.40;Card payment;Yes
+22.07.2024;LIDL;931;D;48.72;Card payment;Yes
+23.07.2024;DM DROGERIEMARKT;931;D;25.20;Card payment;Yes
+24.07.2024;LIDL;931;D;28.77;Card payment;Yes
+25.07.2024;A.B.U;532;C;55.00;Credit;Yes
+25.07.2024;B?rger-Service;931;D;10.00;Card payment;Yes
+25.07.2024;Unigiessen;518;D;335.10;Transfer;Yes
+31.07.2024;VOLKSBANK ;531;D;0.94;Bank charge;Yes
+31.07.2024;VOLKSBANK ;905;D;2.50;Bank charge;Yes
+01.08.2024;A.B.U;532;C;500.00;Credit;Yes
+01.08.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+02.08.2024;VOLKSBANK ;931;D;50.00;Withdrawal;Yes
+05.08.2024;LIDL;931;D;42.61;Card payment;Yes
+07.08.2024;MH Muller Handels GmbH;931;D;18.75;Card payment;Yes
+07.08.2024;LIDL;931;D;36.57;Card payment;Yes
+09.08.2024;LIDL;931;D;21.61;Card payment;Yes
+09.08.2024;PayPal;931;D;38.68;Direct debit;Yes
+12.08.2024;LIDL;931;D;14.27;Card payment;Yes
+12.08.2024;OTTO payments;510;D;24.27;SEPA Transfer;Yes
+12.08.2024;DM DROGERIEMARKT;931;D;36.45;Card payment;Yes
+13.08.2024;LIDL;931;D;10.45;Card payment;Yes
+13.08.2024;PayPal;531;D;68.42;Direct debit;Yes
+14.08.2024;tkmaxx;931;D;21.77;Card payment;Yes
+15.08.2024;AOK Hessen;531;C;126.86;Credit;Yes
+15.08.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+15.08.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+16.08.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+16.08.2024;KIK;931;D;19.15;Card payment;Yes
+16.08.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+19.08.2024;LIDL;931;D;5.56;Card payment;Yes
+19.08.2024;LIDL;931;D;12.93;Card payment;Yes
+19.08.2024;KIK;931;D;13.48;Card payment;Yes
+20.08.2024;LIDL;931;D;28.89;Card payment;Yes
+20.08.2024;Master card;510;D;50.00;SEPA Transfer;Yes
+21.08.2024;KIK;531;C;11.24;Credit;Yes
+21.08.2024;VOLKSBANK ;4020;D;30.00;Withdrawal;Yes
+22.08.2024;ApoApotheke an der Suedanlage/Giessen;931;D;17.29;Card payment;Yes
+22.08.2024;tkmaxx;931;D;24.97;Card payment;Yes
+26.08.2024;A.B.U;532;C;70.00;Credit;Yes
+26.08.2024;LIDL;931;D;16.38;Card payment;Yes
+26.08.2024;MH Muller Handels GmbH;931;D;17.96;Card payment;Yes
+27.08.2024;LIDL;931;D;6.00;Card payment;Yes
+30.08.2024;A.B.U;532;C;500.00;Credit;Yes
+30.08.2024;VOLKSBANK ;905;D;1.00;Direct debit;Yes
+30.08.2024;Vodafone West GmbH;531;D;53.99;Direct debit;Yes
+02.09.2024;Tele Columbus Multimedia GmbH + Co. KG;531;D;10.00;Direct debit;Yes
+02.09.2024;HanseMerkur Speziale Krankenversicherung AG;531;D;10.00;Direct debit;Yes
+02.09.2024;LIDL;931;D;22.63;Card payment;Yes
+03.09.2024;LIDL;931;D;35.01;Card payment;Yes
+04.09.2024;DEICHMANN;931;D;8.98;Card payment;Yes
+04.09.2024;DM DROGERIEMARKT;931;D;18.20;Card payment;Yes
+05.09.2024;MH Muller Handels GmbH;931;D;6.28;Card payment;Yes
+06.09.2024;LIDL;931;D;24.60;Card payment;Yes
+09.09.2024;A.B.U;532;C;60.00;Credit;Yes
+09.09.2024;A.B.U;532;C;70.00;Credit;Yes
+09.09.2024;MCDONALDS;931;D;6.57;Card payment;Yes
+09.09.2024;VOLKSBANK ;931;D;20.00;Withdrawal;Yes
+09.09.2024;Master card;510;D;150.00;SEPA Transfer;Yes
+10.09.2024;PayPal;531;D;30.03;Direct debit;Yes
+10.09.2024;LIDL;931;D;99.89;Card payment;Yes
+11.09.2024;A.B.U;532;C;130.00;Credit;Yes
+11.09.2024;OTTO payments;518;D;22.71;Transfer;Yes
+11.09.2024;PayPal;531;d;72.99;Direct debit;Yes
+13.09.2024;LIDL;931;D;18.50;Card payment;Yes
+13.09.2024;KIK;931;D;17.96;Card payment;Yes
+13.09.2024;DM DROGERIEMARKT;931;D;30.95;Card payment;Yes
+13.09.2024;PayPal;531;D;130.75;Direct debit;Yes
+16.09.2024;A.B.U;532;C;100.00;Credit;Yes
+16.09.2024;PayPal;531;D;11.99;Direct debit;Yes
+16.09.2024;PayPal;531;D;11.99;Direct debit;Yes
+16.09.2024;AFRICAN BAZAAR/Giessen/DE;931;D;22.30;Card payment;Yes
+16.09.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+16.09.2024;tkmaxx;931;D;85.44;Card payment;Yes
+17.09.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+17.09.2024;PayPal;531;D;38.17;Direct debit;Yes
+17.09.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+18.09.2024;LIDL;931;D;9.44;Card payment;Yes
+19.09.2024;MH Muller Handels GmbH;931;D;22.70;Card payment;Yes
+19.09.2024;DM DROGERIEMARKT;931;D;31.05;Card payment;Yes
+27.09.2024;A.B.U;532;C;500.00;Credit;Yes
+30.09.2024;A.B.U;532;C;220.00;Credit;Yes
+30.09.2024;VOLKSBANK ;905;D;2.03;Bank charge;Yes
+30.09.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+30.09.2024;LIDL;931;D;59.86;Card payment;Yes
+30.09.2024;Rundfunk ARD, ZDF, DRadio;518;D;63.08;Transfer;Yes
+01.10.2024;PYUR Vertrieb + Service GmbH;531;D;10.00;Direct debit;Yes
+01.10.2024;DM DROGERIEMARKT;931;D;30.85;Card payment;Yes
+02.10.2024;VHS Gie?en;518;D;220.00;Transfer;Yes
+07.10.2024;VOLKSBANK ;931;D;20.00;Withdrawal;Yes
+07.10.2024;AFRICAN BAZAAR/Giessen/DE;931;D;49.90;Card payment;Yes
+07.10.2024;tkmaxx;931;D;80.96;Card payment;Yes
+07.10.2024;C+A;931;D;86.94;Card payment;Yes
+08.10.2024;LIDL;931;D;18.21;Card payment;Yes
+08.10.2024;DM DROGERIEMARKT;931;D;23.00;Card payment;Yes
+11.10.2024;A.B.U;532;C;140.00;Credit;Yes
+11.10.2024;remitly com;510;D;85.00;SEPA Transfer;Yes
+14.10.2024;PayPal;531;D;63.25;Direct debit;Yes
+15.10.2024;A.B.U;532;C;150.00;Credit;Yes
+15.10.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+15.10.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+17.10.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+17.10.2024;LIDL;931;D;8.65;Card payment;Yes
+18.10.2024;LIDL;931;D;37.09;Card payment;Yes
+21.10.2024;DM DROGERIEMARKT;931;D;23.70;Card payment;Yes
+21.10.2024;Master card;510;D;120.00;SEPA Transfer;Yes
+23.10.2024;LIDL;931;D;11.71;Card payment;Yes
+23.10.2024;SHELL;931;D;20.10;Card payment;Yes
+24.10.2024;PayPal;531;D;27.75;Direct debit;Yes
+30.10.2024;A.B.U;532;C;500.00;Credit;Yes
+31.10.2024;VOLKSBANK ;905;D;2.00;Bank charge;Yes
+31.10.2024;OTTO payments;518;D;22.71;Transfer;Yes
+31.10.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+01.11.2024;PYUR Vertrieb + Service GmbH;531;D;10.00;Direct debit;Yes
+04.11.2024;APOTHEKE AM BAHNHOF;931;D;2.99;Card payment;Yes
+04.11.2024;MH Muller Handels GmbH;931;D;21.02;Card payment;Yes
+04.11.2024;LIDL;931;D;44.90;Card payment;Yes
+06.11.2024;LIDL;931;D;27.67;Card payment;Yes
+06.11.2024;DM DROGERIEMARKT;931;D;50.15;Card payment;Yes
+11.11.2024;A.B.U;532;C;75.00;Credit;Yes
+11.11.2024;remitly com;510;D;30.00;SEPA Transfer;Yes
+11.11.2024;remitly com;510;D;40.00;SEPA Transfer;Yes
+11.11.2024;LIDL;931;D;46.68;Card payment;Yes
+13.11.2024;MH Muller Handels GmbH;931;D;19.95;Card payment;Yes
+14.11.2024;VOLKSBANK ;931;D;20.00;Withdrawal;Yes
+15.11.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+15.11.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+18.11.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+18.11.2024;LIDL;931;D;36.11;Card payment;Yes
+22.11.2024;OTTO payments;518;D;22.72;Transfer;Yes
+22.11.2024;Master card;510;D;120.00;SEPA Transfer;Yes
+25.11.2024;LIDL;931;D;18.49;Card payment;Yes
+28.11.2024;PayPal;531;D;60.25;Direct debit;Yes
+29.11.2024;VOLKSBANK ;905;D;5.50;Bank charge;Yes
+02.12.2024;A.B.U;532;C;500.00;Credit;Yes
+02.12.2024;PYUR Vertrieb + Service GmbH;531;D;10.00;Direct debit;Yes
+02.12.2024;DM DROGERIEMARKT;931;D;34.80;Card payment;Yes
+02.12.2024;LIDL;931;D;46.04;Card payment;Yes
+03.12.2024;A.B.U;532;C;94.00;Credit;Yes
+03.12.2024;LIDL;931;D;14.93;Card payment;Yes
+03.12.2024;Vodafone West GmbH;531;D;49.99;Direct debit;Yes
+05.12.2024;TransferGo Lithuania;510;D;70.00;SEPA Transfer;Yes
+06.12.2024;DM DROGERIEMARKT;931;D;7.35;Card payment;Yes
+06.12.2024;VOLKSBANK ;931;D;30.00;Withdrawal;Yes
+06.12.2024;REWE;931;D;39.78;Card payment;Yes
+06.12.2024;PayPal;531;D;53.94;Direct debit;Yes
+09.12.2024;LIDL;931;D;46.51;Card payment;Yes
+11.12.2024;A.B.U;532;C;130.00;Credit;Yes
+11.12.2024;LIDL;931;D;26.16;Card payment;Yes
+12.12.2024;TransferGo Lithuania;510;D;140.00;SEPA Transfer;Yes
+13.12.2024;Bundesagentur f?r Arbeit - Familienkasse;531;C;250.00;Credit;Yes
+16.12.2024;A.B.U;532;C;33.00;Credit;Yes
+16.12.2024;Energie und Versorgung Butzbach GmbH;531;D;50.00;Direct debit;Yes
+16.12.2024;Energie und Versorgung Butzbach GmbH;531;D;120.00;Direct debit;Yes
+18.12.2024;MH Muller Handels GmbH;931;D;42.13;Card payment;Yes
+18.12.2024;PayPal;531;D;50.75;Direct debit;Yes
+18.12.2024;Master card;510;D;120.00;SEPA Transfer;Yes
+20.12.2024;A.B.U;532;C;206.00;Credit;Yes
+20.12.2024;TransferGo Lithuania;510;D;205.00;SEPA Transfer;Yes
+23.12.2024;LIDL;931;D;26.89;Card payment;Yes
+27.12.2024;A.B.U;532;C;500.00;Credit;Yes
+27.12.2024;VOLKSBANK ;931;D;20.00;Withdrawal;Yes
+30.12.2024;A.B.U;532;C;160.00;Credit;Yes
+30.12.2024;VOLKSBANK ;905;D;1.50;Bank charge;Yes
+30.12.2024;Rundfunk ARD, ZDF, DRadio;518;D;55.08;Transfer;Yes
+30.12.2024;TransferGo Lithuania;510;D;155.00;SEPA Transfer;Yes

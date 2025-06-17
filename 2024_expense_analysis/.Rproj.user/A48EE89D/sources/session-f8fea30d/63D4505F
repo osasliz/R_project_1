@@ -1,0 +1,27 @@
+{
+    "id": "63D4505F",
+    "path": "~/R_work/2024_expense_analysis/Analysis.R",
+    "project_path": "Analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1749551514754.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "61,16",
+        "scrollLine": "32"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1749552086,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1750118086150,
+    "read_only": false,
+    "read_only_alternatives": []
+}

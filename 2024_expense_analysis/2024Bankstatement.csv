@@ -1,0 +1,371 @@
+date;Name / Description;Code;Debit / Credit (D / C);Amount €;Transaction type;Notification
+20240102;RSG Group GmbH;531;Debit;24.90;Direct debit;Yes
+20240102;LIDL;931;Debit;40.88;Card payment;Yes
+20240103;AMAZON;531;Debit;4.24;Direct debit;Yes
+20240103;Tele Columbus Multimedia GmbH ;531;Debit;10.00;Direct debit;Yes
+20240104;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240108;LIDL;931;Debit;32.62;Card payment;Yes
+20240108;AMAZON;531;Debit;48.00;Direct debit;Yes
+20240109;LIDL;931;Debit;37.00;Card payment;Yes
+20240111;LIDL;931;Debit;26.65;Card payment;Yes
+20240115;DM DROGERIEMARKT;931;Debit;28.40;Card payment;Yes
+20240115;VOLKSBANK ;931;Debit;50.00;Withdrawal;Yes
+20240115;AOK Hessen;531;Debit;361.00;Direct debit;Yes
+20240117;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240117;OTTO payments;518;Debit;25.00;Transfer;Yes
+20240117;Master card;510;Debit;120.00;SEPA Transfer;Yes
+20240118;LIDL;931;Debit;43.49;Card payment;Yes
+20240119;ABU;532;Credit;50.00;Credit;Yes
+20240119;PVS bayern GmbH;510;Debit;27.79;SEPA Transfer;Yes
+20240122;LIDL;931;Debit;40.40;Card payment;Yes
+20240123;AMAZON;531;Debit;30.55;Direct debit;Yes
+20240123;DM DROGERIEMARKT;931;Debit;37.30;Card payment;Yes
+20240124;AFRICAN BAZAAR;931;Debit;26.89;Card payment;Yes
+20240124;Neukauf Lemler EDEKA;931;Debit;39.00;Card payment;Yes
+20240129;LIDL;931;Debit;19.45;Card payment;Yes
+20240130;ABU;532;Credit;700.00;Credit;Yes
+20240131;VOLKSBANK ;905;Debit;1.50;Bank charge;Yes
+20240131;Vodafone ;531;Debit;49.99;Direct debit;Yes
+20240201;Tele Columbus Multimedia GmbH;531;Debit;10.00;Direct debit;Yes
+20240201;LIDL;931;Debit;29.77;Card payment;Yes
+20240201;RSG Group GmbH;531;Debit;39.90;Direct debit;Yes
+20240202;AMAZON;531;Debit;8.90;Direct debit;Yes
+20240205;TOOM ;931;Debit;19.98;Card payment;Yes
+20240205;LIDL;931;Debit;31.51;Card payment;Yes
+20240205;DM DROGERIEMARKT;931;Debit;35.70;Card payment;Yes
+20240206;LIDL;931;Debit;29.23;Card payment;Yes
+20240207;MH Muller Handels GmbH;931;Debit;16.57;Card payment;Yes
+20240208;AMAZON;531;Debit;10.12;Direct debit;Yes
+20240212;ABU;532;Credit;400.00;Credit;Yes
+20240212;AOK Hessen;510;Debit;10.00;SEPA Transfer;Yes
+20240212;Neukauf Lemler EDEKA;931;Debit;23.21;Card payment;Yes
+20240213;LIDL;931;Debit;35.68;Card payment;Yes
+20240215;VOLKSBANK ;4020;Debit;30.00;Withdrawal;Yes
+20240215;Energie und Versorgung Butzbach GmbH;531;Debit;161.00;Direct debit;Yes
+20240215;AOK Hessen;531;Debit;223.88;Direct debit;Yes
+20240216;ABU;531;Credit;100.00;Credit;Yes
+20240216;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240216;AMAZON;531;Debit;9.80;Direct debit;Yes
+20240216;PayPal;531;Debit;72.52;Direct debit;Yes
+20240219;OTTO payments;510;Debit;25.00;SEPA Transfer;Yes
+20240219;Master card;510;Debit;105.00;SEPA Transfer;Yes
+20240219;Justus Liebig Universität;510;Debit;314.87;SEPA Transfer;Yes
+20240220;MH Muller Handels GmbH;931;Debit;16.57;Card payment;Yes
+20240221;LIDL;931;Debit;26.84;Card payment;Yes
+20240221;PayPal;531;Debit;45.75;Direct debit;Yes
+20240223;LIDL;931;Debit;31.76;Card payment;Yes
+20240226;PayPal;531;Debit;5.00;Direct debit;Yes
+20240226;REWE;531;Debit;24.42;Card payment;Yes
+20240226;AMAZON;531;Debit;30.55;Direct debit;Yes
+20240228;AMAZON;531;Debit;0.94;Direct debit;Yes
+20240228;AMAZON;531;Debit;0.94;Direct debit;Yes
+20240229;ABU;531;Credit;500.00;Credit;Yes
+20240229;VOLKSBANK ;905;Debit;1.00;Bank charge;Yes
+20240301;RSG Group GmbH;531;Debit;2.41;Direct debit;Yes
+20240301;Tele Columbus Multimedia GmbH;531;Debit;10.00;Direct debit;Yes
+20240301;Vodafone;531;Debit;49.99;Direct debit;Yes
+20240304;AMAZON;510;Debit;14.98;SEPA Transfer;Yes
+20240304;LIDL;931;Debit;22.91;Card payment;Yes
+20240304;AMAZON;510;Debit;32.99;SEPA Transfer;Yes
+20240304;DM DROGERIEMARKT;931;Debit;38.62;Card payment;Yes
+20240307;LIDL;931;Debit;17.39;Card payment;Yes
+20240313;MH Muller Handels GmbH;931;Debit;7.23;Card payment;Yes
+20240313;APOTHEKE AM BAHNHOF;931;Debit;7.79;Card payment;Yes
+20240315;ABU;532;Credit;220.00;Credit;Yes
+20240315;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240315;Energie und Versorgung Butzbach GmbH;531;Debit;66.82;Direct debit;Yes
+20240315;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240315;AOK Hessen;531;Debit;223.88;Direct debit;Yes
+20240318;LIDL;931;Debit;44.23;Card payment;Yes
+20240319;OTTO payments;518;Debit;25.00;Transfer;Yes
+20240319;Master card;510;Debit;105.00;SEPA Transfer;Yes
+20240320;MH Muller Handels GmbH;931;Debit;25.03;Card payment;Yes
+20240325;ABU;532;Credit;50.00;Credit;Yes
+20240325;AMAZON;531;Debit;23.19;Direct debit;Yes
+20240325;AMAZON;531;Debit;33.95;Direct debit;Yes
+20240325;LIDL;931;Debit;37.06;Card payment;Yes
+20240325;Rundfunk ARD ZDF DRadio;518;Debit;55.08;Transfer;Yes
+20240326;DM DROGERIEMARKT;931;Debit;12.06;Card payment;Yes
+20240328;ABU;532;Credit;500.00;Credit;Yes
+20240328;VOLKSBANK ;905;Debit;2.00;Bank charge;Yes
+20240328;LIDL;931;Debit;16.64;Card payment;Yes
+20240328;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240402;Tele Columbus Multimedia GmbH ;531;Debit;10.00;Direct debit;Yes
+20240402;REWE;931;Debit;12.02;Card payment;Yes
+20240402;LIDL;931;Debit;85.81;Card payment;Yes
+20240404;DM DROGERIEMARKT;931;Debit;43.90;Card payment;Yes
+20240405;ABU;531;Credit;100.00;Credit;Yes
+20240408;LIDL;931;Debit;17.82;Card payment;Yes
+20240408;MH Muller Handels GmbH;931;Debit;18.01;Card payment;Yes
+20240409;PayPal;531;Debit;35.75;Direct debit;Yes
+20240410;LIDL;931;Debit;30.78;Card payment;Yes
+20240411;Neukauf Lemler EDEKA;931;Debit;33.22;Card payment;Yes
+20240415;LIDL;931;Debit;36.01;Card payment;Yes
+20240415;DM DROGERIEMARKT;931;Debit;46.65;Card payment;Yes
+20240415;VAAM-Mitgliedsbeitrag;531;Debit;95.00;Direct debit;Yes
+20240416;ABU;532;Credit;200.00;Credit;Yes
+20240416;VOLKSBANK ;531;Debit;0.94;Bank charge;Yes
+20240416;VOLKSBANK ;531;Debit;0.94;Bank charge;Yes
+20240418;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240418;LIDL;931;Debit;16.52;Card payment;Yes
+20240418;Master card;510;Debit;110.00;SEPA Transfer;Yes
+20240419;LIDL;931;Debit;35.74;Card payment;Yes
+20240422;OTTO payments;518;Debit;25.00;Transfer;Yes
+20240423;ABU;532;Credit;150.00;Credit;Yes
+20240423;PayPal;531;Debit;31.75;Direct debit;Yes
+20240423;PayPal;531;Debit;36.98;Direct debit;Yes
+20240423;PayPal;531;Debit;95.00;Direct debit;Yes
+20240423;PayPal;531;Debit;95.00;Direct debit;Yes
+20240424;VOLKSBANK ;4243;Debit;40.00;Withdrawal;Yes
+20240424;Energie und Versorgung Butzbach GmbH;531;Debit;127.49;Direct debit;Yes
+20240425;Payward Ltd;531;Credit;177.83;Credit;Yes
+20240429;ABU;532;Credit;500.00;Credit;Yes
+20240429;LIDL;931;Debit;26.25;Card payment;Yes
+20240429;AOK Hessen;518;Debit;231.87;Transfer;Yes
+20240430;VOLKSBANK ;905;Debit;2.00;Bank charge;Yes
+20240430;LIDL;931;Debit;21.34;Card payment;Yes
+20240502;Tele Columbus Multimedia GmbH;531;Debit;10.00;Direct debit;Yes
+20240502;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240502;PayPal;531;Debit;61.47;Direct debit;Yes
+20240503;REWE;931;Debit;44.70;Card payment;Yes
+20240507;PayPal;531;Debit;31.99;Direct debit;Yes
+20240508;ABU;532;Credit;200.00;Credit;Yes
+20240508;OTTO payments;510;Debit;25.00;SEPA Transfer;Yes
+20240508;LIDL;931;Debit;35.75;Card payment;Yes
+20240514;ABU;532;Credit;150.00;Credit;Yes
+20240514;LIDL;931;Debit;30.82;Card payment;Yes
+20240514;REWE;931;Debit;58.19;Card payment;Yes
+20240515;LIDL;931;Debit;8.73;Card payment;Yes
+20240515;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20240515;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240517;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240521;PayPal;531;Debit;0.85;Direct debit;Yes
+20240521;PayPal;531;Debit;0.97;Direct debit;Yes
+20240521;PayPal;531;Debit;1.34;Direct debit;Yes
+20240521;PayPal;531;Debit;7.64;Direct debit;Yes
+20240521;PayPal;531;Debit;48.91;Direct debit;Yes
+20240521;LIDL;931;Debit;50.61;Card payment;Yes
+20240521;Master card;510;Debit;105.00;SEPA Transfer;Yes
+20240523;AMAZON;531;Debit;39.55;Direct debit;Yes
+20240527;DM DROGERIEMARKT;931;Debit;33.40;Card payment;Yes
+20240528;PayPal;531;Credit;18.12;Credit;Yes
+20240531;VOLKSBANK ;905;Debit;1.00;Bank charge;Yes
+20240531;VOLKSBANK ;931;Debit;20.00;Withdrawal;Yes
+20240531;LIDL;931;Debit;41.23;Card payment;Yes
+20240603;ABU;532;Credit;100.00;Credit;Yes
+20240603;ABU;532;Credit;510.00;Credit;Yes
+20240603;Tele Columbus Multimedia GmbH ;531;Debit;10.00;Direct debit;Yes
+20240603;AOK Hessen;531;Debit;223.88;Direct debit;Yes
+20240604;PayPal;531;Debit;84.75;Direct debit;Yes
+20240604;PayPal;531;Debit;505.53;Direct debit;Yes
+20240605;ABU;532;Credit;300.00;Credit;Yes
+20240605;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240607;LIDL;931;Debit;18.88;Card payment;Yes
+20240610;DM DROGERIEMARKT;931;Debit;60.65;Card payment;Yes
+20240611;A.B.U;532;Credit;600.00;Credit;Yes
+20240611;LIDL;931;Debit;40.73;Card payment;Yes
+20240613;ABU;532;Credit;350.00;Credit;Yes
+20240613;Airbnb;510;Debit;325.00;SEPA Transfer;Yes
+20240617;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240617;PayPal;931;Debit;44.30;Direct debit;Yes
+20240617;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20240617;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240617;AOK Hessen;518;Debit;223.88;Direct debit;Yes
+20240618;OTTO payments;518;Debit;25.00;Transfer;Yes
+20240618;Master card;510;Debit;200.00;SEPA Transfer;Yes
+20240621;ABU;532;Credit;100.00;Credit;Yes
+20240627;PayPal;531;Debit;80.42;Direct debit;Yes
+20240628;VOLKSBANK ;905;Debit;1.50;Bank charge;Yes
+20240701;ABU;532;Credit;500.00;Credit;Yes
+20240701;Tele Columbus Multimedia GmbH;531;Debit;10.00;Direct debit;Yes
+20240701;HanseMerkur Speziale Krankenversicherung AG;531;Debit;10.00;Direct debit;Yes
+20240701;Rundfunk ARD ZDF DRadio;518;Debit;55.08;Transfer;Yes
+20240702;LIDL;931;Debit;32.72;Card payment;Yes
+20240702;DM DROGERIEMARKT;931;Debit;46.75;Card payment;Yes
+20240702;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240704;LIDL;931;Debit;47.06;Card payment;Yes
+20240708;ABU;532;Credit;55.00;Credit;Yes
+20240708;ABU;532;Credit;250.00;Credit;Yes
+20240708;TransferGo Lithuania;510;Debit;52.00;SEPA Transfer;Yes
+20240711;LIDL;931;Debit;31.26;Card payment;Yes
+20240715;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20240715;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240715;AOK Hessen;518;Debit;223.88;Direct debit;Yes
+20240716;PayPal;531;Debit;2.19;Direct debit;Yes
+20240716;PayPal;531;Debit;2.48;Direct debit;Yes
+20240716;DM DROGERIEMARKT;931;Debit;30.75;Card payment;Yes
+20240716;LIDL;931;Debit;35.97;Card payment;Yes
+20240717;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240717;OTTO payments;518;Debit;24.27;Transfer;Yes
+20240717;Master card;510;Debit;150.00;SEPA Transfer;Yes
+20240718;DM DROGERIEMARKT;931;Debit;7.95;Card payment;Yes
+20240718;LIDL;931;Debit;9.20;Card payment;Yes
+20240718;DM DROGERIEMARKT;931;Debit;19.60;Card payment;Yes
+20240718;REWE;931;Debit;21.82;Card payment;Yes
+20240719;MH Muller Handels GmbH;931;Debit;15.47;Card payment;Yes
+20240722;ABU;532;Credit;50.00;Credit;Yes
+20240722;PENNY;931;Debit;13.40;Card payment;Yes
+20240722;LIDL;931;Debit;48.72;Card payment;Yes
+20240723;DM DROGERIEMARKT;931;Debit;25.20;Card payment;Yes
+20240724;LIDL;931;Debit;28.77;Card payment;Yes
+20240725;ABU;532;Credit;55.00;Credit;Yes
+20240725;Bürger-Service;931;Debit;10.00;Card payment;Yes
+20240725;Unigiessen;518;Debit;335.10;Transfer;Yes
+20240731;VOLKSBANK ;531;Debit;0.94;Bank charge;Yes
+20240731;VOLKSBANK ;905;Debit;2.50;Bank charge;Yes
+20240801;ABU;532;Credit;500.00;Credit;Yes
+20240801;Tele Columbus Multimedia GmbH ;531;Debit;10.00;Direct debit;Yes
+20240802;VOLKSBANK ;931;Debit;50.00;Withdrawal;Yes
+20240805;LIDL;931;Debit;42.61;Card payment;Yes
+20240807;MH Muller Handels GmbH;931;Debit;18.75;Card payment;Yes
+20240807;LIDL;931;Debit;36.57;Card payment;Yes
+20240809;LIDL;931;Debit;21.61;Card payment;Yes
+20240809;PayPal;931;Debit;38.68;Direct debit;Yes
+20240812;LIDL;931;Debit;14.27;Card payment;Yes
+20240812;OTTO payments;510;Debit;24.27;SEPA Transfer;Yes
+20240812;DM DROGERIEMARKT;931;Debit;36.45;Card payment;Yes
+20240813;LIDL;931;Debit;10.45;Card payment;Yes
+20240813;PayPal;531;Debit;68.42;Direct debit;Yes
+20240814;tkmaxx;931;Debit;21.77;Card payment;Yes
+20240815;AOK Hessen;531;Credit;126.86;Credit;Yes
+20240815;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240815;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20240816;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240816;KIK;931;Debit;19.15;Card payment;Yes
+20240816;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240819;LIDL;931;Debit;5.56;Card payment;Yes
+20240819;LIDL;931;Debit;12.93;Card payment;Yes
+20240819;KIK;931;Debit;13.48;Card payment;Yes
+20240820;LIDL;931;Debit;28.89;Card payment;Yes
+20240820;Master card;510;Debit;50.00;SEPA Transfer;Yes
+20240821;KIK;531;Credit;11.24;Credit;Yes
+20240821;VOLKSBANK ;4020;Debit;30.00;Withdrawal;Yes
+20240822;Apotheke an der Suedanlage;931;Debit;17.29;Card payment;Yes
+20240822;tkmaxx;931;Debit;24.97;Card payment;Yes
+20240826;ABU;532;Credit;70.00;Credit;Yes
+20240826;LIDL;931;Debit;16.38;Card payment;Yes
+20240826;MH Muller Handels GmbH;931;Debit;17.96;Card payment;Yes
+20240827;LIDL;931;Debit;6.00;Card payment;Yes
+20240830;ABU;532;Credit;500.00;Credit;Yes
+20240830;VOLKSBANK ;905;Debit;1.00;Direct debit;Yes
+20240830;Vodafone West GmbH;531;Debit;53.99;Direct debit;Yes
+20240902;Tele Columbus Multimedia GmbH;531;Debit;10.00;Direct debit;Yes
+20240902;HanseMerkur Speziale Krankenversicherung AG;531;Debit;10.00;Direct debit;Yes
+20240902;LIDL;931;Debit;22.63;Card payment;Yes
+20240903;LIDL;931;Debit;35.01;Card payment;Yes
+20240904;DEICHMANN;931;Debit;8.98;Card payment;Yes
+20240904;DM DROGERIEMARKT;931;Debit;18.20;Card payment;Yes
+20240905;MH Muller Handels GmbH;931;Debit;6.28;Card payment;Yes
+20240906;LIDL;931;Debit;24.60;Card payment;Yes
+20240909;ABU;532;Credit;60.00;Credit;Yes
+20240909;ABU;532;Credit;70.00;Credit;Yes
+20240909;MCDONALDS;931;Debit;6.57;Card payment;Yes
+20240909;VOLKSBANK ;931;Debit;20.00;Withdrawal;Yes
+20240909;Master card;510;Debit;150.00;SEPA Transfer;Yes
+20240910;PayPal;531;Debit;30.03;Direct debit;Yes
+20240910;LIDL;931;Debit;99.89;Card payment;Yes
+20240911;ABU;532;Credit;130.00;Credit;Yes
+20240911;OTTO payments;518;Debit;22.71;Transfer;Yes
+20240911;PayPal;531;Debit;72.99;Direct debit;Yes
+20240913;LIDL;931;Debit;18.50;Card payment;Yes
+20240913;KIK;931;Debit;17.96;Card payment;Yes
+20240913;DM DROGERIEMARKT;931;Debit;30.95;Card payment;Yes
+20240913;PayPal;531;Debit;130.75;Direct debit;Yes
+20240916;ABU;532;Credit;100.00;Credit;Yes
+20240916;PayPal;531;Debit;11.99;Direct debit;Yes
+20240916;PayPal;531;Debit;11.99;Direct debit;Yes
+20240916;AFRICAN BAZAAR;931;Debit;22.30;Card payment;Yes
+20240916;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20240916;tkmaxx;931;Debit;85.44;Card payment;Yes
+20240917;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20240917;PayPal;531;Debit;38.17;Direct debit;Yes
+20240917;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20240918;LIDL;931;Debit;9.44;Card payment;Yes
+20240919;MH Muller Handels GmbH;931;Debit;22.70;Card payment;Yes
+20240919;DM DROGERIEMARKT;931;Debit;31.05;Card payment;Yes
+20240927;ABU;532;Credit;500.00;Credit;Yes
+20240930;ABU;532;Credit;220.00;Credit;Yes
+20240930;VOLKSBANK ;905;Debit;2.03;Bank charge;Yes
+20240930;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20240930;LIDL;931;Debit;59.86;Card payment;Yes
+20240930;Rundfunk ARD ZDF DRadio;518;Debit;63.08;Transfer;Yes
+20241001;PYUR Vertrieb Service GmbH;531;Debit;10.00;Direct debit;Yes
+20241001;DM DROGERIEMARKT;931;Debit;30.85;Card payment;Yes
+20241002;VHS Gießen;518;Debit;220.00;Transfer;Yes
+20241007;VOLKSBANK ;931;Debit;20.00;Withdrawal;Yes
+20241007;AFRICAN BAZAAR;931;Debit;49.90;Card payment;Yes
+20241007;tkmaxx;931;Debit;80.96;Card payment;Yes
+20241007;CA;931;Debit;86.94;Card payment;Yes
+20241008;LIDL;931;Debit;18.21;Card payment;Yes
+20241008;DM DROGERIEMARKT;931;Debit;23.00;Card payment;Yes
+20241011;ABU;532;Credit;140.00;Credit;Yes
+20241011;remitly;510;Debit;85.00;SEPA Transfer;Yes
+20241014;PayPal;531;Debit;63.25;Direct debit;Yes
+20241015;ABU;532;Credit;150.00;Credit;Yes
+20241015;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20241015;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20241017;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20241017;LIDL;931;Debit;8.65;Card payment;Yes
+20241018;LIDL;931;Debit;37.09;Card payment;Yes
+20241021;DM DROGERIEMARKT;931;Debit;23.70;Card payment;Yes
+20241021;Master card;510;Debit;120.00;SEPA Transfer;Yes
+20241023;LIDL;931;Debit;11.71;Card payment;Yes
+20241023;SHELL;931;Debit;20.10;Card payment;Yes
+20241024;PayPal;531;Debit;27.75;Direct debit;Yes
+20241030;ABU;532;Credit;500.00;Credit;Yes
+20241031;VOLKSBANK ;905;Debit;2.00;Bank charge;Yes
+20241031;OTTO payments;518;Debit;22.71;Transfer;Yes
+20241031;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20241101;PYUR Vertrieb Service GmbH;531;Debit;10.00;Direct debit;Yes
+20241104;APOTHEKE AM BAHNHOF;931;Debit;2.99;Card payment;Yes
+20241104;MH Muller Handels GmbH;931;Debit;21.02;Card payment;Yes
+20241104;LIDL;931;Debit;44.90;Card payment;Yes
+20241106;LIDL;931;Debit;27.67;Card payment;Yes
+20241106;DM DROGERIEMARKT;931;Debit;50.15;Card payment;Yes
+20241111;ABU;532;Credit;75.00;Credit;Yes
+20241111;remitly;510;Debit;30.00;SEPA Transfer;Yes
+20241111;remitly;510;Debit;40.00;SEPA Transfer;Yes
+20241111;LIDL;931;Debit;46.68;Card payment;Yes
+20241113;MH Muller Handels GmbH;931;Debit;19.95;Card payment;Yes
+20241114;VOLKSBANK ;931;Debit;20.00;Withdrawal;Yes
+20241115;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20241115;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20241118;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20241118;LIDL;931;Debit;36.11;Card payment;Yes
+20241122;OTTO payments;518;Debit;22.72;Transfer;Yes
+20241122;Master card;510;Debit;120.00;SEPA Transfer;Yes
+20241125;LIDL;931;Debit;18.49;Card payment;Yes
+20241128;PayPal;531;Debit;60.25;Direct debit;Yes
+20241129;VOLKSBANK ;905;Debit;5.50;Bank charge;Yes
+20241202;ABU;532;Credit;500.00;Credit;Yes
+20241202;PYUR Vertrieb Service GmbH;531;Debit;10.00;Direct debit;Yes
+20241202;DM DROGERIEMARKT;931;Debit;34.80;Card payment;Yes
+20241202;LIDL;931;Debit;46.04;Card payment;Yes
+20241203;ABU;532;Credit;94.00;Credit;Yes
+20241203;LIDL;931;Debit;14.93;Card payment;Yes
+20241203;Vodafone West GmbH;531;Debit;49.99;Direct debit;Yes
+20241205;TransferGo Lithuania;510;Debit;70.00;SEPA Transfer;Yes
+20241206;DM DROGERIEMARKT;931;Debit;7.35;Card payment;Yes
+20241206;VOLKSBANK ;931;Debit;30.00;Withdrawal;Yes
+20241206;REWE;931;Debit;39.78;Card payment;Yes
+20241206;PayPal;531;Debit;53.94;Direct debit;Yes
+20241209;LIDL;931;Debit;46.51;Card payment;Yes
+20241211;ABU;532;Credit;130.00;Credit;Yes
+20241211;LIDL;931;Debit;26.16;Card payment;Yes
+20241212;TransferGo Lithuania;510;Debit;140.00;SEPA Transfer;Yes
+20241213;Bundesagentur für Arbeit;531;Credit;250.00;Credit;Yes
+20241216;ABU;532;Credit;33.00;Credit;Yes
+20241216;Energie und Versorgung Butzbach GmbH;531;Debit;50.00;Direct debit;Yes
+20241216;Energie und Versorgung Butzbach GmbH;531;Debit;120.00;Direct debit;Yes
+20241218;MH Muller Handels GmbH;931;Debit;42.13;Card payment;Yes
+20241218;PayPal;531;Debit;50.75;Direct debit;Yes
+20241218;Master card;510;Debit;120.00;SEPA Transfer;Yes
+20241220;ABU;532;Credit;206.00;Credit;Yes
+20241220;TransferGo Lithuania;510;Debit;205.00;SEPA Transfer;Yes
+20241223;LIDL;931;Debit;26.89;Card payment;Yes
+20241227;ABU;532;Credit;500.00;Credit;Yes
+20241227;VOLKSBANK ;931;Debit;20.00;Withdrawal;Yes
+20241230;ABU;532;Credit;160.00;Credit;Yes
+20241230;VOLKSBANK ;905;Debit;1.50;Bank charge;Yes
+20241230;Rundfunk ARD ZDF DRadio;518;Debit;55.08;Transfer;Yes
+20241230;TransferGo Lithuania;510;Debit;155.00;SEPA Transfer;Yes
